@@ -43,6 +43,7 @@ deadline: 15/4/2025
 - trả lời câu hỏi: trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
   Sử dụng lệnh Where để truy vấn ra thông tin các giảng biên đang giảng dạy với điều kiện: Giờ cần kiểm tra phải sau hoặc bằng giờ vào và trước khi tiết học kết thúc(giờ ra)
   
-  ![image](https://github.com/user-attachments/assets/b81b59a8-f68c-4982-846c-f007b478adcc)
+![image](https://github.com/user-attachments/assets/d96c141a-fb0f-439e-99ce-a7fc2e537bd3)
+
 
 
