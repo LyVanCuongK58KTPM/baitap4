@@ -91,7 +91,7 @@ deadline: 15/4/2025
    ![image](https://github.com/user-attachments/assets/fd531410-a5c2-479a-a8fb-ebd53726cc00)
 
 6. Trả lời cho câu hỏi: rong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
-   - Em tạo 1 truy vẫn giữa thời điểm này và thời điểm kia để so sáng với giờ vào và giờ ra:
+   - Em tạo 1 truy vẫn giữa thời điểm này và thời điểm kia để so sánh với giờ vào và giờ ra:
 
      ![image](https://github.com/user-attachments/assets/5029f342-f712-41f8-9785-3915c193a78f)
 
